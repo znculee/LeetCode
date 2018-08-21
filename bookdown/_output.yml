@@ -1,0 +1,17 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">Ideas of Leetcode</a></li>
+      after: |
+        <li><a href="https://github.com/znculee/leetcode/tree/master/solutions" target="blank">Solutions</a></li>
+    edit: null
+    download: null
+    search: yes
+    fontsettings:
+      theme: white
+      family: sans
+      size: 2
+    sharing: null

@@ -1,0 +1,14 @@
+# Linear List
+
+## Array
+
+### Hash Table
+
+- Hash table has O(1) search time. The cost of reducing the time complexity is increasing the space complexity.
+- Consider mapping something to the index.
+- A hash map can be replaced by an array if the keys are related to the positions already like ASCII.
+
+### Two Pointers
+
+- Fast and slow pointers can edit the array in place.
+- Initializing smartly can make the following less tedious (e.g. `int slow = -1, fast = 0`).

@@ -1,0 +1,21 @@
+book_filename: 'ideas-of-leetcode'
+delete_merged_file: true
+output_dir: '../docs'
+rmd_files: [
+    'index.Rmd',
+    'rmd/general.Rmd',
+    'rmd/linear-list.Rmd',
+    'rmd/string.Rmd',
+    'rmd/stack-and-queue.Rmd',
+    'rmd/tree.Rmd',
+    'rmd/sort.Rmd',
+    'rmd/search.Rmd',
+    'rmd/violent-enumeration.Rmd',
+    'rmd/bfs.Rmd',
+    'rmd/dfs.Rmd',
+    'rmd/divide-and-conquer.Rmd',
+    'rmd/greedy.Rmd',
+    'rmd/dp.Rmd',
+    'rmd/graph.Rmd',
+    'rmd/references.Rmd'
+]

@@ -1,0 +1,12 @@
+# General
+
+## First Glance
+
+Questions                   | Ideas
+:--                         | :--
+return all possible cases   | recursion
+runtime complexity O(log n) | binary search
+
+## Skills
+
+- Detect odd number with `x % 2 != 0` instead of `x % 2 == 1`, because x could be negative.

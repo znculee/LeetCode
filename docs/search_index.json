@@ -1,0 +1,18 @@
+[
+["index.html", "Ideas of LeetCode Preface", " Ideas of LeetCode Xintong Li Last update: 2020-10-18 Preface This book aims at summarizing the ways of thinking algorithm problems. "],
+["general.html", "1 General 1.1 First Glance 1.2 Skills", " 1 General 1.1 First Glance Questions Ideas return all possible cases recursion runtime complexity O(log n) binary search 1.2 Skills Detect odd number with x % 2 != 0 instead of x % 2 == 1, because x could be negative. "],
+["linear-list.html", "2 Linear List 2.1 Array", " 2 Linear List 2.1 Array 2.1.1 Hash Table Hash table has O(1) search time. The cost of reducing the time complexity is increasing the space complexity. Consider mapping something to the index. A hash map can be replaced by an array if the keys are related to the positions already like ASCII. 2.1.2 Two Pointers Fast and slow pointers can edit the array in place. Initializing smartly can make the following less tedious (e.g. int slow = -1, fast = 0). "],
+["string.html", "3 String", " 3 String "],
+["stack-and-queue.html", "4 Stack and Queue", " 4 Stack and Queue "],
+["tree.html", "5 Tree", " 5 Tree "],
+["sort.html", "6 Sort", " 6 Sort "],
+["search.html", "7 Search", " 7 Search "],
+["violent-enumeration.html", "8 Violent Enumeration", " 8 Violent Enumeration "],
+["bread-first-search.html", "9 Bread First Search", " 9 Bread First Search "],
+["depth-first-search.html", "10 Depth First Search", " 10 Depth First Search "],
+["divide-and-conquer.html", "11 Divide and Conquer", " 11 Divide and Conquer "],
+["greedy.html", "12 Greedy", " 12 Greedy "],
+["dynamic-programming.html", "13 Dynamic Programming", " 13 Dynamic Programming "],
+["graph.html", "14 Graph", " 14 Graph "],
+["references.html", "References", " References "]
+]

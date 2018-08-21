@@ -1,0 +1,17 @@
+---
+title: "Ideas of LeetCode"
+author: "Xintong Li"
+date: "Last update: `r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: ref.bib
+biblio-style: apalike
+link-citations: yes
+github-repo: znculee/leetcode
+description: ""
+---
+
+# Preface {-}
+
+This book aims at summarizing the ways of thinking algorithm problems.
